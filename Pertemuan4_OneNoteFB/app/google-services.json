@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "353191352076",
-    "project_id": "pertemuan4-onenotefb",
-    "storage_bucket": "pertemuan4-onenotefb.appspot.com"
+    "project_number": "262533781186",
+    "project_id": "pertemuan4-onenotefb-c6588",
+    "storage_bucket": "pertemuan4-onenotefb-c6588.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:353191352076:android:42b6063e6cad94db0d5b29",
+        "mobilesdk_app_id": "1:262533781186:android:00585bed646afa4efccd5b",
         "android_client_info": {
           "package_name": "com.example.pertemuan4_onenotefb"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDL7VkhMIcxGGAidpDgtuCQkyvNXkYJYF8"
+          "current_key": "AIzaSyCq80THHCCLAarcjyIQtnpuIhfs_Xk1-yQ"
         }
       ],
       "services": {
